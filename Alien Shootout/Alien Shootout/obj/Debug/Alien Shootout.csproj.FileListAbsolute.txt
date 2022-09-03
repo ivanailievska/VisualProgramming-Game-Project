@@ -1,0 +1,11 @@
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\bin\Debug\Alien Shootout.exe.config
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\bin\Debug\Alien Shootout.exe
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\bin\Debug\Alien Shootout.pdb
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\obj\Debug\Alien Shootout.csproj.AssemblyReference.cache
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\obj\Debug\Alien Shootout.csproj.SuggestedBindingRedirects.cache
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\obj\Debug\Alien_Shootout.Form1.resources
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\obj\Debug\Alien_Shootout.Properties.Resources.resources
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\obj\Debug\Alien Shootout.csproj.GenerateResource.cache
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\obj\Debug\Alien Shootout.csproj.CoreCompileInputs.cache
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\obj\Debug\Alien Shootout.exe
+E:\finki\VizProektFinal\Alien Shootout\Alien Shootout\obj\Debug\Alien Shootout.pdb
